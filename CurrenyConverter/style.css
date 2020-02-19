@@ -1,0 +1,37 @@
+body
+{
+    background-color: gray;
+}
+
+form
+ { 
+    margin: 0 auto; 
+    width:250px;
+    margin-top: 12em;
+    margin-right: 5em;
+    position: relative;
+
+ 
+  }
+
+
+#output
+{
+    position: relative;
+    right: -13em;
+
+}
+
+#moneyInput
+{
+    position: relative;
+    right: -7em;
+    
+}
+
+#moneyConverter
+{
+    position: relative;
+    right: -3.5em;
+    top: 2em;
+}
